@@ -77,7 +77,7 @@ Patient Call
 ```md
 ## Architecture
 
-![Architecture](./archi.png)
+<img src="archi.png" width="1000">
 ```
 
 ---

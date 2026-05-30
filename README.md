@@ -187,21 +187,20 @@ hospital-ai/
 
 ## Screenshots
 
-### Admin Dashboard
 
-*(Add screenshot)*
 
 ### Doctor Management
 
-*(Add screenshot)*
+![Doctors](Screenshot%202026-05-30%20114009.png)
 
 ### Slot Management
 
-*(Add screenshot)*
+
 
 ### Appointment Dashboard
 
-*(Add screenshot)*
+
+![Appointments](Screenshot%202026-05-30%20114036.png)
 
 ---
 

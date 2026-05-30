@@ -77,7 +77,7 @@ Patient Call
 ```md
 ## System Architecture
 
-![System Architecture](./archi.png)
+![System Architecture](archi.png)
 ```
 
 ---

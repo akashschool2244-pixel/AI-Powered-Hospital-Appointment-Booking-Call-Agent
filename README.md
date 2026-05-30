@@ -73,7 +73,6 @@ Patient Call
  Admin Dashboard
 ```
 
-> Add your architecture diagram image here:
 
 ```md
 ![Architecture](images/arch.png)

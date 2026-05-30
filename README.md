@@ -195,7 +195,7 @@ hospital-ai/
 
 ### Slot Management
 
-
+![Dashboard](Screenshot%202026-05-30%20113943.png)
 
 ### Appointment Dashboard
 

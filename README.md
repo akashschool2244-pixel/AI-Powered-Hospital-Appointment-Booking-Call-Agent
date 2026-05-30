@@ -73,6 +73,13 @@ Patient Call
  Admin Dashboard
 ```
 
+> Add your architecture diagram image here:
+
+```md
+![Architecture](images/arch.png)
+```
+
+---
 
 ## Tech Stack
 
@@ -164,6 +171,40 @@ hospital-ai/
 
 ---
 
+
+
+## Future Improvements
+
+* Multi-language support
+* SMS appointment reminders
+* Appointment cancellation and rescheduling
+* Doctor portal
+* Analytics dashboard
+* Hospital FAQ support using RAG
+* Voice authentication
+* Calendar integration
+
+---
+
+## Screenshots
+
+### Admin Dashboard
+
+*(Add screenshot)*
+
+### Doctor Management
+
+*(Add screenshot)*
+
+### Slot Management
+
+*(Add screenshot)*
+
+### Appointment Dashboard
+
+*(Add screenshot)*
+
+---
 
 ## Author
 
